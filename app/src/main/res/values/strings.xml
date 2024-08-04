@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicianSearch</string>
+    <string name="musicbrainz_api">using MusicBrainz.org</string>
+
+    <string name="album_title">Title</string>
+    <string name="album_release">Release</string>
+    <string name="album_type">Type</string>
+
+    <string name="fav_button">Fav</string>
+    <string name="title_activity_favourite_list">FavouriteListActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="favourites_title">Favourite Artists</string>
+    <string name="image_desc">Album cover image</string>
+
+    <string name="artist_name">Name</string>
+    <string name="artist_id">ID</string>
+    <string name="artist_country">Country</string>
+    <string name="deletebtn">deleteBtn</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+</resources>
